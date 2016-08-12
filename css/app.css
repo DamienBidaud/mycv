@@ -1,0 +1,32 @@
+ul{
+  list-style: none;
+}
+/*
+.menu{
+  background-color: white;
+}
+h3{
+  color: #4e97f2;
+}
+.skill{
+  color: #ec5840;
+}
+.project{
+  color: #1583cc;
+}*/
+body{
+  background-color: #151515;
+  color: #ddd;
+}
+.menu{
+   background-color: #151515;
+ }
+h3{
+    color: #2199e8;
+}
+.skill{
+  color: #217cc3;
+}
+.project{
+  color: #2071b5;
+}
